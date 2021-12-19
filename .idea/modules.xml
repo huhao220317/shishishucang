@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gmall0519-cdc/gmall0519-cdc.iml" filepath="$PROJECT_DIR$/gmall0519-cdc/gmall0519-cdc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0519-logger/gmall0519-logger.iml" filepath="$PROJECT_DIR$/gmall0519-logger/gmall0519-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0519-publisher/gmall0519-publisher.iml" filepath="$PROJECT_DIR$/gmall0519-publisher/gmall0519-publisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall0519-realtime/gmall0519-realtime.iml" filepath="$PROJECT_DIR$/gmall0519-realtime/gmall0519-realtime.iml" />
+    </modules>
+  </component>
+</project>
